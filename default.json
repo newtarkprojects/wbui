@@ -16,8 +16,8 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "Welcome",
-          "title1": "Thanks for installing WBUI2!",
+          "buttontext": "Welcome to Newt-Ark on ASA",
+          "title1": "Thanks for joining Newt-Ark on ASA!",
           "text1": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab.",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
@@ -38,7 +38,7 @@
       {
         "link1": {
           "text": "Discord",
-          "url": "https://discord.com/invite/K7NyrTV"
+          "url": "https://discord.com/invite/tPywPXmCDM"
         }
       },
       {
